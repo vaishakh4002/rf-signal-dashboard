@@ -19,9 +19,9 @@ pip install streamlit pandas matplotlib
 python -m streamlit run app.py
 
 ## Screenshots
-![Dashboard](screenshot1.png)
-![Charts](screenshot2.png)
-![Fault Alerts](screenshot3.png)
+![Dashboard](Screenshot1.png)
+![Charts](Screenshot2.png)
+![Fault Alerts](Screenshot3.png)
 
 ## About
 Built as part of ECE to IT transition portfolio.
